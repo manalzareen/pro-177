@@ -1,0 +1,7 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    max-width:fit-content ;
+    max-height:fit-content ;
+    font-family: 'Pangolin', cursive;
+    justify-content: center;
+}
